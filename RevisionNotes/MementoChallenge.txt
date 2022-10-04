@@ -1,0 +1,10 @@
+Memento Pattern Challenge
+
+Create an application that uses Memento Design pattern:
+
+Create three main classes to implement :
+1)Originator 
+2)Memento - stores the internal state of the originator object
+3)Caretaker -
+responsible for Memento's safekeeping
+never operates on or examines the content of a memento

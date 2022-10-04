@@ -1,0 +1,11 @@
+Two common strategies for handling collisison
+1) Open addressing
+ - If we try to put an employee into table and we find out that there is already an emp at the slot where
+ we want to put new emp then we look for another postion in an array ,
+ - If we already have the position filled then lets look for another position in an array , thats called open addressing
+ -There are diff ways that we cna look for other positions, we are going to look whats called Linear probing.
+
+ With Linear probing , when we discover that the given position is already occupied then we increment hashedValue by 1 , if hashtable is
+ incremented upto its maximum length then we say that it is full and we do not insert the employee into an array
+
+ Always override HashCode when you override equals method

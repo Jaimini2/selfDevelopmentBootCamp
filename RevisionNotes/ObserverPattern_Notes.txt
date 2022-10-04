@@ -1,0 +1,5 @@
+Observer Design Pattern: 
+
+-it defines one to many dependency between objects so that when one object state changes , all of its dependents are notified and automaitcally updated
+-In this pattern , there are many observers(objects) which are observing a particular subject(object)
+-observer register themselves to a subject and are automaitcally notified when the subject changes

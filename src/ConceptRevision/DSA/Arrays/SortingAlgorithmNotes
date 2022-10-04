@@ -1,0 +1,8 @@
+
+Stable vs Unstable Sort :
+-comes into play when you have duplicate values
+-original ordering of two duplicate values are preserved or not
+-When relative ordering of duplicate sorts are not preserved , its considered
+to be an Unstable sort
+-when relative ordering of duplicate items are preserved ,its considered to
+be a Stable sort
