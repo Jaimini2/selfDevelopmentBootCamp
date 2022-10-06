@@ -48,6 +48,8 @@ public class BinarySearch {
 //        System.out.println(iterativeBinarySearch(intArray, 35));
 //        System.out.println(iterativeBinarySearch(intArray, -22));
 
+
+
         System.out.println(recurrisveBinarySearch(intArray, 2));
         System.out.println(recurrisveBinarySearch(intArray, 20));
         System.out.println(recurrisveBinarySearch(intArray, 35));
