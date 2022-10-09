@@ -1,0 +1,33 @@
+Basic Rules of a Tree :
+
+-Every item in a tree is a Node
+- The node at the top is known as the root Node
+-Every non-root node has one and only one parent
+-A leaf node has no children
+- A Singleton tree has only one node i.e. the root
+
+
+PATH :
+A path is a sequence of node required to go from one Node to another
+Important characteristics of trees is you cannot have cyclic path
+
+DEPTH :
+depth of a node is the numbe rof edges from the node to the root
+So the depth of the root is always zero
+
+Edge :
+Each arrow pointing from one node to another is known as edge.
+Arrow always points from the parent to the child.
+
+HEIGHT:
+A height of a node is the number of edges on the longest path from the node to  leaf.
+Leaf node will have a height of zero.
+The no of edges on the path to get from a leaf node to leaf node is zero.
+So leaf node will always have a height of zero.
+
+
+The height of a tree is the height of its root Node because obviosuly the longest path from the root to a leaf node
+is going to be the height of a root node.
+
+LEVEL OF A TREE:
+Level of a tree contains all the nodes that are at the same depth
