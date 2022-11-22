@@ -36,10 +36,10 @@ public class QueueMain {
         queue.add(emp1);
         queue.add(emp2);
         queue.add(emp3);
-        /*queue.add(emp4);
+        queue.add(emp4);
         queue.add(emp5);
         queue.add(emp6);
-        queue.add(emp7);*/
+        queue.add(emp7);
 
         displayQueueDetails(queue);
 

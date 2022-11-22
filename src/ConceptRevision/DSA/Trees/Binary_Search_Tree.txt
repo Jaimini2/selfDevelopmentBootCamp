@@ -1,0 +1,41 @@
+Binary Search Tree :
+In Binary Search tree , each node consists of 0 , 1 or 2 node.
+The node smaller than the root node goes to the left and the node larger than the root node goes to the right
+
+Complete Binary Tree:
+    A binary tree is a complete tree if every level except the last level , has two children
+    and on the last level,all of the nodes are as left as possible.
+
+Full Binary Tree :
+    Every node other than the leaves has two children.
+    Full Binary Tree is also a complete Binary tree, but complete binary tree is not necessarily full Binary Tree
+
+TREE TRAVERSAL :
+
+LEVEL : visit nodes on each level
+
+PRE-ORDER  :
+visit the root of every subtree first
+
+POST-ORDER :
+visit the   root of every subtree last
+
+IN-ORDER :
+visit left child, then root , then right child
+Data is sorted
+
+DELETE A NODE:
+1. Node is a leaf
+2.Node has one child
+3.Node has two children
+
+DELETE NODE WITH TWO CHILDREN :
+-Need to figure out what the replacement node will be
+-Want minimal disruption to the existing tree structure
+-Can take the replacement node from the deleted node's left subtree or right subtree
+-If taking it from the left subtree , we have to take the largest value in left subtree
+-If taking it from the right subtree , we have to take the smallest value in the right subtree
+-choose one and stick to it
+
+
+

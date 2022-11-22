@@ -1,0 +1,22 @@
+Heaps :
+-A complete Binary tree
+-Must satisfy the heap property
+Max Heap : Every parent is greater than or equal to its children
+Min Heap : Every parent is less than or equal to its children
+
+Rules  :
+-A binary heap must be a complete tree
+-Children are added at each level from left to right
+-Usually implemented as arrays
+-The maximum or minimum value will always be at the root of the tree-the advantage of using heap
+
+-HEAPIFY:
+process of converting a binary tree into a heap
+-this often has to be done after insertion or deletion
+-No required ordering between siblings
+
+HEAPS : DELETE
+-Fix Heap Above -same as insert , swap replacement value with parent
+-Fix Heap Below - swap the replacement value with the larger of its two children
+-Rinse and Repeat in both the cases until the replacement value is in its current position
+-will only need to fix up or down but not both
