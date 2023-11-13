@@ -38,4 +38,27 @@ DELETE NODE WITH TWO CHILDREN :
 -choose one and stick to it
 
 
+Errors :
+The searchNode method is not correctly updating the parent variable. This is because Java passes objects by value,
+ modifying the parent variable inside the method will not affect the original parent variable.
+ To fix this, you can either pass the parent variable by reference or return the updated parent from the
+ searchNode method.
 
+The nodeToBeDeleted method has an issue when the node to be deleted has both a left and right child.
+ After finding the in-order predecessor (temp), you need to update its parent's right child to be the left child
+ of temp. Currently, you are setting the left and right child of temp to be the left and right child of the node
+  to be deleted (curr).
+
+ To fix this, add prev.right = temp.left; after the while loop in the nodeToBeDeleted method.
+The deleteUtil method has an issue when the node to be deleted has only one child. Currently, you are
+assigning the child node to the child variable, but you are not updating the parent's reference to the
+node to be deleted. To fix this, add parent.left = child; or parent.right = child; based on the comparison
+ between parent and curr before returning curr in the deleteUtil method.
+
+
+
+Remove the class-level declarations of parent, curr, and nodeToDelete.
+Declare parent, curr, and nodeToDelete as local variables within the recursive functions.
+Modify the searchNode function to either pass parent as a reference or return the updated parent.
+Modify the deleteUtil function to return the replacement node instead of the node to be deleted.
+Update the child pointers of the replacement node when the node to be deleted has both left and right children.

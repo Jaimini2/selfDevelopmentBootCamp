@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ArrayListImpl {
 
-    static void displayTheGivenList(List list){
+    public static void displayTheGivenList(List list){
 
         if(list instanceof ArrayList){
             System.out.println("Displaying Arraylist of given Type  : " +list.getClass());
