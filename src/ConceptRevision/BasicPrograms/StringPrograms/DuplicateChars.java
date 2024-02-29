@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.StringPrograms;
+package src.ConceptRevision.BasicPrograms.StringPrograms;
 
 import java.util.HashMap;
 import java.util.Iterator;
