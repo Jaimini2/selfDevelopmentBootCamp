@@ -1,6 +1,6 @@
-package Scaler.TwoPointers;
+package src.Scaler.TwoPointers;
 
-import ConceptRevision.DSA.Arrays.MergeSort;
+import src.ConceptRevision.DSA.Arrays.MergeSort;
 
 public class SubArrayWithGivenSum {
         public int[] solve(int[] A, int B) {

@@ -1,4 +1,4 @@
-package Scaler.Trees;
+package src.Scaler.Trees;
 
 public class BST {
     TreeNode root;

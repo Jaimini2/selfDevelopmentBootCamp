@@ -1,11 +1,12 @@
-package Scaler.Trees;
+package src.Scaler.Trees;
 
-import ConceptRevision.DSA.Arrays.MergeSort;
+import src.ConceptRevision.DSA.Arrays.MergeSort;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Queue;
+
 
 public class TopViewOfTree {
     class Pair{
