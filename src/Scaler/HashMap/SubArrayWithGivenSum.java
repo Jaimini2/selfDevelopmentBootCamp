@@ -1,6 +1,6 @@
-package Scaler.HashMap;
+package src.Scaler.HashMap;
 
-import ConceptRevision.DSA.Arrays.MergeSort;
+import src.ConceptRevision.DSA.Arrays.MergeSort;
 
 import java.util.HashMap;
 

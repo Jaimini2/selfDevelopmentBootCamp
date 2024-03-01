@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Arrays;
+package src.ConceptRevision.DSA.Arrays;
 
 /**
  * Divide and Conquer algorithm

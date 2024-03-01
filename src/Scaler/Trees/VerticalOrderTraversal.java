@@ -1,4 +1,4 @@
-package Scaler.Trees;
+package src.Scaler.Trees;
 
 import java.util.ArrayList;
 import java.util.HashMap;
