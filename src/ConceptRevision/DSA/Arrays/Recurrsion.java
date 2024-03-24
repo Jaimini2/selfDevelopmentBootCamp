@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Arrays;
+package  src.ConceptRevision.DSA.Arrays;
 
 /**
  * Recurrsion to calculate a factorial of a number

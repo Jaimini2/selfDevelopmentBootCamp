@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Arrays;
+package  src.ConceptRevision.DSA.Arrays;
 
 /**
  * It is a variation of Insertion sort

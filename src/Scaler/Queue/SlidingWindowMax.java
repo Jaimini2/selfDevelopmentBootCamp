@@ -1,4 +1,4 @@
-package Scaler.Queue;
+package src.Scaler.Queue;
 
 import ConceptRevision.CollectionFramework.ArrayListImpl;
 

@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Trees;
+package  src.ConceptRevision.DSA.Trees;
 
 public class TreeMain {
     public static void main(String[] args) {

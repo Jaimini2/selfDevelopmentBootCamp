@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms;
+package  src.ConceptRevision.BasicPrograms;
 
 /*Armstrong number is a positive m-digit number that
  is equal to the sum of the mth powers of their digits*/

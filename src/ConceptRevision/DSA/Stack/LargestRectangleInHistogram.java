@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Stack;
+package  src.ConceptRevision.DSA.Stack;
 
 public class LargestRectangleInHistogram {
     int[] stack;

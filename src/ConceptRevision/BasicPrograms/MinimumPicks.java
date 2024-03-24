@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms;
+package  src.ConceptRevision.BasicPrograms;
 
 public class MinimumPicks {
 

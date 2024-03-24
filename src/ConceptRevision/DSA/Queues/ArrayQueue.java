@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Queues;
+package  src.ConceptRevision.DSA.Queues;
 
-import ConceptRevision.DSA.Stack.ArrayStack;
+import src.ConceptRevision.DSA.Stack.ArrayStack;
 
 import java.util.ArrayList;
 import java.util.NoSuchElementException;

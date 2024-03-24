@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Lists.DoublyLinkedList;
+package  src.ConceptRevision.DSA.Lists.DoublyLinkedList;
 
-import ConceptRevision.DSA.Lists.ArrayList.Employee;
+import src.ConceptRevision.DSA.Lists.ArrayList.Employee;
 
 public class EmployeeNode {
 

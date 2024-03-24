@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.Facotrial;
+package  src.ConceptRevision.BasicPrograms.Facotrial;
 
 /*Facotiral program without using Recurrsion
 * Factorial is the product of all positive Descending integers*/

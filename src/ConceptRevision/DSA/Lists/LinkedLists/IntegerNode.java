@@ -1,11 +1,11 @@
-package ConceptRevision.DSA.Lists.LinkedLists;
+package src.ConceptRevision.DSA.Lists.LinkedLists;
 
 public class IntegerNode {
     private int data;
     private IntegerNode next;
 
 
-    IntegerNode(int data){
+    public IntegerNode(int data){
         this.data = data;
     }
     public int getData() {

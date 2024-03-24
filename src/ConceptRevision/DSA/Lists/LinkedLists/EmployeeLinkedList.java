@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Lists.LinkedLists;
+package  src.ConceptRevision.DSA.Lists.LinkedLists;
 
-import ConceptRevision.DSA.Lists.ArrayList.Employee;
+import src.ConceptRevision.DSA.Lists.ArrayList.Employee;
 
 public class EmployeeLinkedList {
 
