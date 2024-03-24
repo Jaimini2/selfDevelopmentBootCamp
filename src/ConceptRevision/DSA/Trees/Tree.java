@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Trees;
+package  src.ConceptRevision.DSA.Trees;
 
 public class Tree {
     private TreeNode root;

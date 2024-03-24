@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Stack;
+package  src.ConceptRevision.DSA.Stack;
 
 public class MinStack {
     long []stack = new long[5];

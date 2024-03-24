@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Lists.LinkedLists;
+package src.ConceptRevision.DSA.Lists.LinkedLists;
 
 public class IntegerLinkedList {
     private int size;

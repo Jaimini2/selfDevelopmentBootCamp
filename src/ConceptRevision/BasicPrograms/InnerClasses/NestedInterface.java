@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.InnerClasses;
+package  src.ConceptRevision.BasicPrograms.InnerClasses;
 
 public interface NestedInterface {
     void display();

@@ -1,6 +1,6 @@
-package Scaler.Queue;
+package src.Scaler.Queue;
 
-import ConceptRevision.DSA.Stack.MaxAndMin;
+import src.ConceptRevision.DSA.Stack.MaxAndMin;
 
 public class ReverseElementsOfQueue {
     int[] queue ;

@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.SearchAlgo;
+package  src.ConceptRevision.DSA.SearchAlgo;
 
 public class BinarySearch {
 

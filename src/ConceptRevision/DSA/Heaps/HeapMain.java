@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Heaps;
+package  src.ConceptRevision.DSA.Heaps;
 
 public class HeapMain {
     public static void main(String[] args) {

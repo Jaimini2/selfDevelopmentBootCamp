@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.Fibonacci;
+package  src.ConceptRevision.BasicPrograms.Fibonacci;
 
 //fibonacci without sing recurrsion
 public class FibonacciSeries {

@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms;
+package  src.ConceptRevision.BasicPrograms;
 
 //palindrome numbers are numbers that will be same even after it has been reversed
 

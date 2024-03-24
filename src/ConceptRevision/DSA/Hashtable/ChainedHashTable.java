@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Hashtable;
+package  src.ConceptRevision.DSA.Hashtable;
 
-import ConceptRevision.DSA.Lists.ArrayList.Main;
+import src.ConceptRevision.DSA.Lists.ArrayList.Main;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Queues;
+package  src.ConceptRevision.DSA.Queues;
 
 import java.util.Objects;
 

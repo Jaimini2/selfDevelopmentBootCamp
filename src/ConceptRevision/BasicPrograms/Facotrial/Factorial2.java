@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.Facotrial;
+package  src.ConceptRevision.BasicPrograms.Facotrial;
 
 /*Factorial using Recurrsion*/
 public class Factorial2 {

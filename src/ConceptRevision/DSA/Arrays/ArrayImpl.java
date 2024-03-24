@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Arrays;
+package  src.ConceptRevision.DSA.Arrays;
 
 /**
  * Arrays are not dynamic data structures

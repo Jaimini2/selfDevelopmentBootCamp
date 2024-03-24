@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms;
+package  src.ConceptRevision.BasicPrograms;
 
 public class PairCount {
     public static int solve(int[] A, int B) {

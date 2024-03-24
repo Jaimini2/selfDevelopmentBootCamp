@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Heaps;
+package  src.ConceptRevision.DSA.Heaps;
 
 public class Heap {
     private int[] heap;

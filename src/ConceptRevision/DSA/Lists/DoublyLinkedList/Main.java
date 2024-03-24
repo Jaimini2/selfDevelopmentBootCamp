@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Lists.DoublyLinkedList;
+package  src.ConceptRevision.DSA.Lists.DoublyLinkedList;
 
-import ConceptRevision.DSA.Lists.ArrayList.Employee;
+import src.ConceptRevision.DSA.Lists.ArrayList.Employee;
 
 public class Main {
     public static void main(String[] args) {

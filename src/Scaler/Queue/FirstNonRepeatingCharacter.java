@@ -1,4 +1,4 @@
-package Scaler.Queue;
+package src.Scaler.Queue;
 
 import java.util.HashMap;
 import java.util.LinkedList;

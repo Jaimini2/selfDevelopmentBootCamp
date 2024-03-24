@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Lists.ArrayList;
+package  src.ConceptRevision.DSA.Lists.ArrayList;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Hashtable;
+package  src.ConceptRevision.DSA.Hashtable;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.Patterns;
+package  src.ConceptRevision.BasicPrograms.Patterns;
 
 public class Pattern4 {
     public static void main(String[] args) {

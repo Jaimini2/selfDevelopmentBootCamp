@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Stack;
+package src.ConceptRevision.DSA.Stack;
 
-import ConceptRevision.DSA.Lists.ArrayList.Employee;
+import src.ConceptRevision.DSA.Lists.ArrayList.Employee;
 
 public class StackMain {
     public static void main(String[] args) {

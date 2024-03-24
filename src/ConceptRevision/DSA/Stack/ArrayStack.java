@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Stack;
+package src.ConceptRevision.DSA.Stack;
 
-import ConceptRevision.DSA.Lists.ArrayList.Employee;
+import  src.ConceptRevision.DSA.Lists.ArrayList.Employee;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;

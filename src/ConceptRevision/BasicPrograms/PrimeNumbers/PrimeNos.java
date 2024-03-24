@@ -1,4 +1,4 @@
-package ConceptRevision.BasicPrograms.PrimeNumbers;
+package  src.ConceptRevision.BasicPrograms.PrimeNumbers;
 
 public class PrimeNos {
 

@@ -1,6 +1,6 @@
-package ConceptRevision.DSA.Stack;
+package src.ConceptRevision.DSA.Stack;
 
-import ConceptRevision.DSA.Arrays.MergeSort;
+import src.ConceptRevision.DSA.Arrays.MergeSort;
 
 public class MaxAndMin {
     int[] stack;

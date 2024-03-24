@@ -1,4 +1,4 @@
-package ConceptRevision.DSA.Arrays;
+package  src.ConceptRevision.DSA.Arrays;
 
 /**
  * In - place algorithm - logically partitioning the array and dont have to create another array
