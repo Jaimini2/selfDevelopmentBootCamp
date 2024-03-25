@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Visitor.Challenge;
+package src.DesignPatterns.com.BehavioralDP.Visitor.Challenge;
 
 import java.util.ArrayList;
 

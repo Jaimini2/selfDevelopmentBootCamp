@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Observer.ObserverChallenge;
+ package src.DesignPatterns.com.BehavioralDP.Observer.ObserverChallenge;
 //this interface is implemented by all the classes that
 //are to be updated whenever there is an update from Cricket data
 public interface Observer {

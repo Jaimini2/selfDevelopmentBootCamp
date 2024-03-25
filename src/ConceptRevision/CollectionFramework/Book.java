@@ -1,4 +1,4 @@
-package ConceptRevision.CollectionFramework;
+package src.ConceptRevision.CollectionFramework;
 
 import java.util.Objects;
 

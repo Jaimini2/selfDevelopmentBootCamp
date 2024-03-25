@@ -1,6 +1,6 @@
 package src.Scaler.Queue;
 
-import ConceptRevision.CollectionFramework.ArrayListImpl;
+import src.ConceptRevision.CollectionFramework.ArrayListImpl;
 
 import java.util.*;
 

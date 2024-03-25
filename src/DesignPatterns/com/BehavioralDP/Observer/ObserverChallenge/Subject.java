@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Observer.ObserverChallenge;
+ package src.DesignPatterns.com.BehavioralDP.Observer.ObserverChallenge;
 
 import java.util.ArrayList;
 import java.util.Iterator;
