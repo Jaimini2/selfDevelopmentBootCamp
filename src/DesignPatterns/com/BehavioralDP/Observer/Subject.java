@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Observer;
+package src.DesignPatterns.com.BehavioralDP.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +19,7 @@ public interface Subject {
     public Object getUpdate(Observer obj);
 }
 
-class MyTopic implements Subject{
+ class MyTopic implements Subject{
     private List<Observer> observers;
     private String message;
     private boolean changed;
@@ -41,13 +41,13 @@ class MyTopic implements Subject{
 
     @Override
     public void notifyObservers() {
-        List<DesignPatterns.com.BehavioralDP.Observer.Observer> localObserver = null;
+        List<Observer> localObserver = null;
 
         if(!changed) return;
 
         localObserver = new ArrayList(this.observers);
         this.changed = false;
-        for(DesignPatterns.com.BehavioralDP.Observer.Observer obj : localObserver){
+        for(Observer obj : localObserver){
             obj.update();
         }
 

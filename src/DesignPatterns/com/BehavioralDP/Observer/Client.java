@@ -1,9 +1,9 @@
-package DesignPatterns.com.BehavioralDP.Observer;
+package src.DesignPatterns.com.BehavioralDP.Observer;
 
 public class Client {
     public static void main(String[] args) {
         //create Subject
-        MyTopic topic  = new MyTopic();
+       MyTopic topic  = new MyTopic();
 
         //create observers
         Observer o1 = new TopicSubscriber("obj1");

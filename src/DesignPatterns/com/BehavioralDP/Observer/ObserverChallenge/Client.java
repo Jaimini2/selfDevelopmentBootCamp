@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Observer.ObserverChallenge;
+ package src.DesignPatterns.com.BehavioralDP.Observer.ObserverChallenge;
 
 public class Client {
     public static void main(String[] args) {

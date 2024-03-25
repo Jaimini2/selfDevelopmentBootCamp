@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Visitor.Challenge;
+package src.DesignPatterns.com.BehavioralDP.Visitor.Challenge;
 
 public interface Visitor {
     public void visit(Book book);

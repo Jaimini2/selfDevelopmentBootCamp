@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Visitor.Challenge;
+package src.DesignPatterns.com.BehavioralDP.Visitor.Challenge;
 
 public interface Visitable {
     public void accept(Visitor visitor);

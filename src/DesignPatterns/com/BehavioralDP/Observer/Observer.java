@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Observer;
+ package src.DesignPatterns.com.BehavioralDP.Observer;
 
 public interface Observer
 {

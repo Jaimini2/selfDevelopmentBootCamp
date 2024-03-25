@@ -1,4 +1,4 @@
-package DesignPatterns.com.BehavioralDP.Visitor;
+package src.DesignPatterns.com.BehavioralDP.Visitor;
 
 public class Client {
 
