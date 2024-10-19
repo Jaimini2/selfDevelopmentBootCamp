@@ -1,4 +1,4 @@
-package Scaler.DoublyLinkedList;
+package src.Scaler.DoublyLinkedList;
 
 import java.util.HashMap;
 
