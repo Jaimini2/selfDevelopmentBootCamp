@@ -15,10 +15,14 @@ public class QueueMain {
 
 
         queue.add(new Employee(8,"Jacksy","Dacksy"));
+        queue.add(new Employee(9,"Amo","TheQueen"));
+        queue.add(new Employee(10,"Mom","Home Minister"));
+        queue.add(new Employee(11,"Dad","HOD"));
 
 
         queue.printQueue();
         System.out.println("Peeking the first employee of the queue "+queue.peek());
+        System.out.println();
         System.out.println("Size of the queue " + queue.size());
       //  System.out.println("Length of Queue "+queue.empQueue.length);
     }

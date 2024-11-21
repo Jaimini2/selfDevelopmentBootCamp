@@ -28,11 +28,13 @@ public class ArrayQueue {
         }
 
 
-        if(back < empQueue.length-1){
+        if(back < empQueue.length){
             empQueue[back] = emp;
             back++;
         }else{
             back = 0;
+            empQueue[back] = emp;
+            back++;
         }
     }
 
