@@ -1,0 +1,27 @@
+package src.finalDSARevisionScaler.ArrayRevision;
+
+/**
+ * Q16)You are given an integer array A of length N.
+ * You have to find the sum of all subarray sums of A.
+ * More formally, a subarray is defined as a contiguous part of an array which we can obtain by deleting zero or more elements from either end of the array.
+ * A subarray sum denotes the sum of all the elements of that subarray.
+ *
+ * Note : Be careful of integer overflow issues while calculations. Use appropriate datatypes.
+ */
+public class SumOfAllSubArrays {
+
+    public long subArray(int[] A){
+        long arrSum = 0;
+        for(int i =0; i < A.length;i++){
+            arrSum = arrSum + (long)(i+1)*(A.length-i) * A[i];
+        }
+        return arrSum;
+    }
+
+    public static void main(String[] args) {
+        SumOfAllSubArrays sm = new SumOfAllSubArrays();
+        int[] A = {2, 1, 3};
+        System.out.println(sm.subArray(A));
+
+    }
+}

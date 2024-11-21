@@ -2,6 +2,9 @@ package src.finalDSARevisionScaler.hashing;
 
 import java.util.HashMap;
 
+/**
+ * Q37)LongestSubArraySumWithZero
+ */
 public class LongestSubArraysumWithZero {
         public int solve(int[] A) {
             long prefixSum  = 0;
